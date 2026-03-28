@@ -40,6 +40,5 @@
 #clear() - used to clear the data of set
 #pop() - used to remove object
 myset = {10, 20, 30, 40}
-myset.add(70)
-print(myset)
+print(myset.pop())
 print(myset.clear())

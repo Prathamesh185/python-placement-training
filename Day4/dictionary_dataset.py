@@ -48,5 +48,5 @@ mydict = {
 # mydict.pop(101)
 # print(mydict)
 
-newdict = mydict
+newdict = mydict.copy()
 print(newdict)
