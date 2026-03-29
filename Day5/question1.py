@@ -17,6 +17,9 @@
 # mylist.sort()
 # print("second largest=",mylist[-2])
 
-mylist = [5,0,5,3,0,1,2]
-mylist.sort(reverse=True)
-print(mylist)
+
+# reverse sort
+# mylist = [5,0,5,3,0,1,2]
+# mylist.sort(reverse=True)
+# print(mylist)
+
