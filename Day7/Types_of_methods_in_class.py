@@ -7,6 +7,8 @@ There are 3 types of method we can declare at class
 Instance method - If any instance variable we are implementing inside of any method then that method will be called as instance method
 Static method - We can use static method when the code that belongs to class it do not use the object
 '''
+
+# 1. Instance method
 # class Hod:
 #     def __init__(self, name,rollno,mob):                     
 #         self.name = name                                    #instance variable
@@ -22,7 +24,7 @@ Static method - We can use static method when the code that belongs to class it 
 # obj.info()
 
 
-#static method
+# 2. static method
 class Student:
     @staticmethod
     def get_personal_detail(firstname, lastname):
